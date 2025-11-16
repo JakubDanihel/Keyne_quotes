@@ -31,7 +31,7 @@ Na spustenie aplikácie potrebujete Python 3 a niekoľko súborov.
     python app.py
     ```
 
-## 🛠️ Ako to funguje
+##  Ako to funguje
 
 Aplikácia sa skladá z troch hlavných častí:
 
