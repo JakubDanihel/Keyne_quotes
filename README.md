@@ -2,8 +2,6 @@
 
 Jednoduchá desktopová aplikácia vytvorená v Pythone a `tkinter`, ktorá zobrazuje náhodné citáty od Kanye Westa. Citáty sú získavané naživo z verejného API (https://api.kanye.rest).
 
-![Ukážka Aplikácie](demo.png)
-*(Odporúčame sem vložiť screenshot fungujúcej aplikácie)*
 
 ##  Ako spustiť projekt
 
